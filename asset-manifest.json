@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coop-board/static/css/main.b3fa5c63.css",
-    "main.js": "/coop-board/static/js/main.8ccb48a9.js",
+    "main.js": "/coop-board/static/js/main.01f3fef4.js",
     "static/js/787.c6227b01.chunk.js": "/coop-board/static/js/787.c6227b01.chunk.js",
     "index.html": "/coop-board/index.html",
     "main.b3fa5c63.css.map": "/coop-board/static/css/main.b3fa5c63.css.map",
-    "main.8ccb48a9.js.map": "/coop-board/static/js/main.8ccb48a9.js.map",
+    "main.01f3fef4.js.map": "/coop-board/static/js/main.01f3fef4.js.map",
     "787.c6227b01.chunk.js.map": "/coop-board/static/js/787.c6227b01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3fa5c63.css",
-    "static/js/main.8ccb48a9.js"
+    "static/js/main.01f3fef4.js"
   ]
 }
